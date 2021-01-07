@@ -1,6 +1,6 @@
 import pafy
 
-url = "https://youtu.be/BLeOcCeqsfI"
+url = "https://youtu.be/BLeOcCeqsfI"        # copy the video link and paste it here
 video = pafy.new(url)
 streams = video.streams
 for i in streams:
