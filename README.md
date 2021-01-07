@@ -1,6 +1,7 @@
 # Download-videos-from-youtube-using-python-
 You can download youtube videos using python. 
-You can able to see the downloading percentage in the output window
+You can able to see the downloading percentage in the output window.
+
 Module used:
   - pafy
   
