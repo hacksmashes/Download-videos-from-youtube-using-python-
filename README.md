@@ -8,4 +8,4 @@ Module used:
 Commadn to download module:
   - pip install pafy
   
-For more details please refer Instagram page: @python_projects_
+For more details please refer Instagram page: https://www.instagram.com/hack_smashes/
